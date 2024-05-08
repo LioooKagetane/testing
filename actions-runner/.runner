@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "Xenzz",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus14.actions.githubusercontent.com/HJhabv3nmbPWwZWXgEOETDGsH5hGFvtqUd1x5Nafm2VwIA1gUg/",
+  "gitHubUrl": "https://github.com/LioooKagetane/pass-generator",
+  "workFolder": "self-hosted-runner"
+}
