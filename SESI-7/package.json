@@ -1,0 +1,18 @@
+{
+  "name": "sesi-7",
+  "version": "1.0.0",
+  "description": "sesi 7 cuyuniversity backend",
+  "main": "index.js",
+  "scripts": {
+    "xenzzz": "nodemon index.js"
+  },
+  "author": "Xenzzz",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg": "^0.0.4",
+    "imagemagick": "^0.1.3",
+    "nodejs": "^0.0.0",
+    "nodemon": "^3.1.0",
+    "rupiah-format": "^1.0.0"
+  }
+}
